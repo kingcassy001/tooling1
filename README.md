@@ -65,7 +65,6 @@ To run the container:
 ```
 $ docker run -d eu.gcr.io/$environment/frontend-propitix:$tag-version
 ```
-jenkins check again
 Default web root:
 ```
 /usr/share/nginx/html
@@ -73,5 +72,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-check jenkins pllllsss
-
+check jenkins pls
